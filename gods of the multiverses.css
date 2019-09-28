@@ -1,0 +1,117 @@
+
+
+h1 {
+	color: darkblue ;
+	text-shadow: green;
+	font-style: italic;
+	font-size: 550;
+	border: solid blue;
+	border-right: darkblue;
+	border-bottom: darkblue;
+	text-align: center;
+	cursor: pointer;
+	background-color: lightblue;
+}
+
+strong {
+	text-align: center;
+	color: red;
+}
+
+header {
+	text-align: center;
+}
+
+
+
+li {
+	font-family: fantasy;
+	font-size: 150%;
+	text-align: center;
+}
+
+
+ul {
+	color: lightblue;
+	font-size: 150%;
+}
+
+
+a {
+	color: purple;
+	border: black;
+	font-size: 150%;
+	font-style: italic;
+}
+
+
+.boxmodel {
+	font-style: italic;
+	font-size: 100%;
+	color: purple;
+	text-shadow: solid green;
+	/*border: 100px; */
+	border: solid darkgrey;
+	padding: 50px 300px;
+	margin: 20px 20px;
+	width: contain;
+	height: 50px;
+	background-color: lightgrey;
+	text-align: center;
+	transition: transform 2s;
+}
+
+
+.boxmodel:hover {
+	transform: translate(20px ,20px);
+	transform: scale(1.5);
+	background-color: pink;
+}
+
+.picture {
+	
+}
+
+.picture:hover {
+
+}
+
+header {
+	transition: transform 1s;
+}
+
+
+header:hover {
+	
+}
+
+img {
+	transition: transform 1s;
+	transition-timing-function: ease-in-out;
+	border: 5px solid white;
+	border-radius: 800px;
+	background-image: url("giphy.gif");
+	background-size: 200%;
+}
+
+img:hover {
+	transform: rotate(360deg);
+	border: 5px solid blue;
+}
+
+
+
+
+http://3.bp.blogspot.com/-bFp5g-Q-PnM/UXneTVyv-BI/AAAAAAAAbkc/nG1F5-v6NgU/s1600/Vance_Kovacs_Thor_www.vancekovacs.com-c80-Asgard_front+coast2.jpg
+
+
+https://slm-assets1.secondlife.com/assets/2382361/original/1.gif?1287858420    circular lightning
+
+https://www.freeiconspng.com/uploads/blue-lightning-hd-png-0.png
+
+https://jloog.com/images/lightening-clipart-animated-gif-13.gif    good
+
+
+https://i.pinimg.com/originals/32/19/77/321977d91704e9b9e4174b3487d45d3b.jpg
+
+background-image:url("giphy.gif");
